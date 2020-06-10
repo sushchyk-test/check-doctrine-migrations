@@ -1,0 +1,14 @@
+{
+    "name": "alabama/check-doctrine-migrations",
+    "description": "Console command that checks is migrations are runned",
+    "type": "libraly",
+    "authors": [
+        {
+            "name": "Alabama Team",
+            "email": "alabama@netvertise.com"
+        }
+    ],
+    "require": {
+        "symfony/orm-pack": "^1.0"
+    }
+}
